@@ -1,4 +1,4 @@
-<!-- [![codecov](https://codecov.io/gh/rimara14/number2fraction/branch/master/graph/badge.svg?token=7PGMPH66IV)](https://codecov.io/gh/rimara14/number2fraction) -->
+<!-- [![codecov](https://codecov.io/gh/rimara14/optional-chaining/branch/master/graph/badge.svg?token=7PGMPH66IV)](https://codecov.io/gh/rimara14/optional-chaining) -->
 
 ## Introduction
 ***Optional Chaining** functionality for vanilla javascript* 
