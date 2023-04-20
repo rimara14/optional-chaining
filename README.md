@@ -2,7 +2,7 @@
 
 ## Introduction
 ***Optional Chaining** functionality for vanilla javascript* 
-Prevent error 'Cannot read property of undefined' or 'Cannot read property of undefined'.
+Prevent error 'Cannot read property of undefined' or 'Cannot read property of null'.
 
 Handle null or undefined parent property when accessing child properties in an object.
 
