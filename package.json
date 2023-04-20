@@ -1,6 +1,6 @@
 {
-  "name": "optional-chaining",
-  "version": "1.0.2",
+  "name": "optional-chaining-js",
+  "version": "1.0.0",
   "description": "optional chaining functionality on vanilla javascript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
